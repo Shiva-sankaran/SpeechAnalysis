@@ -1,5 +1,5 @@
 # PM Speech Analysis 
-
+this was typed by shiva
 Here we wish to analyse speeches of our current prime minister and be able to extract some subject data from the follwoing speeches. The speeches for Manmohan Singh too are available 
 
 We first extract as much as data as possible data from the text files. These include the following
